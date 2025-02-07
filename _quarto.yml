@@ -3,16 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Website"
+  title: "Sarah Eshafi"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
-    theme: cosmo
+    theme: [sandstone, _variables.scss]
     css: styles.css
     toc: true
 

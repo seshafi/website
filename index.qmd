@@ -1,9 +1,30 @@
 ---
-title: "Website"
+title: "Sarah Eshafi"
+image: avatar.jpg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/sarah-eshafi-807725177/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/seshafi"
+    - text: Email
+      url: "mailto:saraheshafi.218+site@gmail.com"
+    - text: Blog
+      url: "blog.html"
+    - text: CV
+      url: "cv.pdf"
+comments: false
 ---
 
-This is a Quarto website.
+::: {.column-page}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Bio
 
-First push! :)
+Under construction :)
+
+On this site you can find my [blog](blog.html) 
+and [my CV](cv.pdf).
+
+:::
