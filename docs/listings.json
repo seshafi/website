@@ -1,8 +1,12 @@
 [
   {
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
     "listing": "/blog.html",
     "items": [
-      "/posts/2025-01-16 ML-Interpretability/index.html"
+      "/blog_posts/2025-01-16 ML-Interpretability/index.html"
     ]
   }
 ]
