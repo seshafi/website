@@ -10,21 +10,27 @@ about:
       icon: github
       url: "https://github.com/seshafi"
     - text: Email
-      url: "mailto:saraheshafi.218+site@gmail.com"
+      url: "mailto:saraheshafi@gmail.com"
     - text: Blog
       url: "blog.html"
-    - text: CV
-      url: "cv.pdf"
 comments: false
+toc: false
+format:
+  html:
+    css: styles.css
 ---
 
 ::: {.column-page}
 
 ## Bio
 
-Under construction :)
+I have a Bachelor's of Science in Integrated Science with a major in Mathematics and Statistics from McMaster University. I'm currently pursuing a Master's in Data Science at the University of British Columbia. My career began in operations consulting, where I first worked as a consultant, helping clients across various industries optimize their operations. Later, I transitioned into a data analyst role, developing tools and dashboards to support data-driven decision-making in our projects.
+
+My passion lies in applying machine learning in the healthcare industry. I’m particularly interested in how data-driven approaches can enhance patient outcomes, reduce burden on healthcare professionals, and support better clinical decision-making.
+
+In my free time, I enjoy camping, reading, cooking, and rotating through a number of crafty hobbies. 
 
 On this site you can find my [blog](blog.html) 
-and [my CV](cv.pdf).
+and some notable [projects](projects.html).
 
 :::
