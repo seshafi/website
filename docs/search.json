@@ -2,9 +2,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Sarah Eshafi",
     "section": "",
-    "text": "Under construction :)\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Projects\n\n\n\n\nProjects\n\nClick “[Github Repo]” to view the project repository.\n\n\n2025\n\n\nPython Stats Package (group academic project)\n\n\nDevelopment of a Python package called pystats_norm that performs normal distributions calculations. This package is published on PyPI and has complete documentation. [Github Repo]\n\n\n2024\n\n\nHeart Disease Predictor (group academic project)\n\n\nMachine learning model to predict coronary heart disease given several medical tests. It includes fully reproducible analysis using containerization via docker. [Github Repo]\n\n\nClimate Change Perception (personal project)\n\n\nExploring the association between climate change perception and natural disasters, education, oil production, and press freedom. [Github Repo]"
   },
   {
     "objectID": "blog_posts/2025-01-16 ML-Interpretability/index.html",
@@ -53,13 +53,13 @@
     "href": "index.html",
     "title": "Sarah Eshafi",
     "section": "",
-    "text": "I have a Bachelor’s of Science in Integrated Science with a major in Mathematics and Statistics from McMaster University. I’m currently pursuing a Master’s in Data Science at the University of British Columbia. My career began in operations consulting, where I first worked as a consultant, helping clients across various industries optimize their operations. Later, I transitioned into a data analyst role, developing tools and dashboards to support data-driven decision-making in our projects.\nMy passion lies in applying machine learning in the healthcare industry. I’m particularly interested in how data-driven approaches can enhance patient outcomes, reduce burden on healthcare professionals, and support better clinical decision-making.\nIn my free time, I enjoy camping, reading, cooking, and rotating through a number of crafty hobbies.\nOn this site you can find my blog and some notable projects."
+    "text": "I have a Bachelor’s of Science in Integrated Science with a major in Mathematics and Statistics from McMaster University. I’m currently pursuing a Master’s in Data Science at the University of British Columbia. My career began in operations consulting, where I helped clients across various industries optimize their operations. Later, I transitioned into a data analyst role, developing tools and dashboards to support data-driven decision-making in our projects.\nMy passion lies in applying machine learning in the healthcare industry. I’m particularly interested in how data-driven approaches can enhance patient outcomes, reduce burden on healthcare professionals, and support better clinical decision-making.\nIn my free time, I enjoy camping, reading, cooking, and rotating through a number of crafty hobbies.\nOn this site you can find my blog and some notable projects."
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Sarah Eshafi",
     "section": "",
-    "text": "I have a Bachelor’s of Science in Integrated Science with a major in Mathematics and Statistics from McMaster University. I’m currently pursuing a Master’s in Data Science at the University of British Columbia. My career began in operations consulting, where I first worked as a consultant, helping clients across various industries optimize their operations. Later, I transitioned into a data analyst role, developing tools and dashboards to support data-driven decision-making in our projects.\nMy passion lies in applying machine learning in the healthcare industry. I’m particularly interested in how data-driven approaches can enhance patient outcomes, reduce burden on healthcare professionals, and support better clinical decision-making.\nIn my free time, I enjoy camping, reading, cooking, and rotating through a number of crafty hobbies.\nOn this site you can find my blog and some notable projects."
+    "text": "I have a Bachelor’s of Science in Integrated Science with a major in Mathematics and Statistics from McMaster University. I’m currently pursuing a Master’s in Data Science at the University of British Columbia. My career began in operations consulting, where I helped clients across various industries optimize their operations. Later, I transitioned into a data analyst role, developing tools and dashboards to support data-driven decision-making in our projects.\nMy passion lies in applying machine learning in the healthcare industry. I’m particularly interested in how data-driven approaches can enhance patient outcomes, reduce burden on healthcare professionals, and support better clinical decision-making.\nIn my free time, I enjoy camping, reading, cooking, and rotating through a number of crafty hobbies.\nOn this site you can find my blog and some notable projects."
   }
 ]

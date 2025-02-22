@@ -24,7 +24,7 @@ format:
 
 ## Bio
 
-I have a Bachelor's of Science in Integrated Science with a major in Mathematics and Statistics from McMaster University. I'm currently pursuing a Master's in Data Science at the University of British Columbia. My career began in operations consulting, where I first worked as a consultant, helping clients across various industries optimize their operations. Later, I transitioned into a data analyst role, developing tools and dashboards to support data-driven decision-making in our projects.
+I have a Bachelor's of Science in Integrated Science with a major in Mathematics and Statistics from McMaster University. I'm currently pursuing a Master's in Data Science at the University of British Columbia. My career began in operations consulting, where I helped clients across various industries optimize their operations. Later, I transitioned into a data analyst role, developing tools and dashboards to support data-driven decision-making in our projects.
 
 My passion lies in applying machine learning in the healthcare industry. I’m particularly interested in how data-driven approaches can enhance patient outcomes, reduce burden on healthcare professionals, and support better clinical decision-making.
 
