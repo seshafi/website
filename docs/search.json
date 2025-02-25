@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Sarah Eshafi",
     "section": "",
-    "text": "Projects\n\n\n\n\nProjects\n\nClick “[Github Repo]” to view the project repository.\n\n\n2025\n\n\nPython Stats Package (group academic project)\n\n\nDevelopment of a Python package called pystats_norm that performs normal distributions calculations. This package is published on PyPI and has complete documentation. [Github Repo]\n\n\n2024\n\n\nHeart Disease Predictor (group academic project)\n\n\nMachine learning model to predict coronary heart disease given several medical tests. It includes fully reproducible analysis using containerization via docker. [Github Repo]\n\n\nClimate Change Perception (personal project)\n\n\nExploring the association between climate change perception and natural disasters, education, oil production, and press freedom. [Github Repo]"
+    "text": "Projects\n\n\n\n\nProjects\n\n\n2025\n\nPython Stats Package ·  Group Academic Project\n\nDevelopment of a Python package called pystats_norm that performs normal distributions calculations. This package is published on PyPI and has complete documentation.\n\n\n2024\n\nHeart Disease Predictor ·  Group Academic Project\n\nMachine learning model to predict coronary heart disease given several medical tests. It includes fully reproducible analysis using containerization via docker.\n\nClimate Change Perception Analysis ·  Personal Project\n\nExploring the association between climate change perception and natural disasters, education, oil production, and press freedom."
   },
   {
     "objectID": "blog_posts/2025-01-16 ML-Interpretability/index.html",

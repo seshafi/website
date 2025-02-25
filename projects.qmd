@@ -2,15 +2,13 @@
 <head><title>Projects</title></head>
 <body>
     <h2>Projects</h2>
-    Click "[Github Repo]" to view the project repository.
-    <hr>
     <h3>2025</h3>
-    <h4>Python Stats Package (group academic project)</h4>
-    <p>Development of a Python package called pystats_norm that performs normal distributions calculations. This package is published on <a href='https://pypi.org/project/pystats-norm/'>PyPI</a> and has <a href='https://pystats-norm.readthedocs.io/en/latest/'>complete documentation</a>. <a href='https://github.com/UBC-MDS/Group24-pystats'>[Github Repo]</a></p>
+    <span><a href='https://github.com/UBC-MDS/Group24-pystats'>Python Stats Package</a><strong> · </strong> <em>Group Academic Project</em></span>
+    <p>Development of a Python package called pystats_norm that performs normal distributions calculations. This package is published on <a href='https://pypi.org/project/pystats-norm/'>PyPI</a> and has <a href='https://pystats-norm.readthedocs.io/en/latest/'>complete documentation</a>.</p>
     <h3>2024</h3>
-    <h4>Heart Disease Predictor (group academic project)</h4>
-    <p>Machine learning model to predict coronary heart disease given several medical tests. It includes fully reproducible analysis using containerization via docker. <a href='https://github.com/UBC-MDS/DSCI-522-2425-team35-Heart_disease_diagnostic_machine'>[Github Repo]</a></p>
-    <h4>Climate Change Perception (personal project)</h4>
-    <p>Exploring the association between climate change perception and natural disasters, education, oil production, and press freedom. <a href='https://github.com/seshafi/Climate-Change-Perception'>[Github Repo]</a></p>
+    <span><a href='https://github.com/UBC-MDS/DSCI-522-2425-team35-Heart_disease_diagnostic_machine'>Heart Disease Predictor</a><strong> · </strong> <em>Group Academic Project</em></span>
+    <p>Machine learning model to predict coronary heart disease given several medical tests. It includes fully reproducible analysis using containerization via docker.</p>
+    <span><a href='https://github.com/seshafi/Climate-Change-Perception'>Climate Change Perception Analysis</a><strong> · </strong> <em>Personal Project</em></span>
+    <p>Exploring the association between climate change perception and natural disasters, education, oil production, and press freedom.</p>
 </body>
 </html>
