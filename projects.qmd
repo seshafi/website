@@ -3,8 +3,12 @@
 <body>
     <h2>Projects</h2>
     <h3>2025</h3>
+    <span>Forecasting Mortality Due to Extreme Temperatures<strong> · </strong> <em>Group Capstone Project</em></span>
+    <p>Interactive R Shiny dashboard to estimate mortality due to extreme temperatures across BC. Collaboration with the Office of the Provincial Health Officer as part of the Master of Data Science capstone project.</p>
+    <span><a href='https://seshafi-bc-health-dashboard.share.connect.posit.cloud/'>BC Mental Health Services Dashboard</a><strong> · </strong> <em>Individual Academic Project</em></span>
+    <p>Dashboard that contains all mental health and substance use services across British Columbia, developed in R Shiny. It includes an interactive map and various filters.</p>
     <span><a href='https://github.com/UBC-MDS/Group24-pystats'>Python Stats Package</a><strong> · </strong> <em>Group Academic Project</em></span>
-    <p>Development of a Python package called pystats_norm that performs normal distributions calculations. This package is published on <a href='https://pypi.org/project/pystats-norm/'>PyPI</a> and has <a href='https://pystats-norm.readthedocs.io/en/latest/'>complete documentation</a>.</p>
+    <p>Developed a Python package called pystats_norm that performs normal distributions calculations. This package is published on <a href='https://pypi.org/project/pystats-norm/'>PyPI</a> and has <a href='https://pystats-norm.readthedocs.io/en/latest/'>complete documentation</a>.</p>
     <h3>2024</h3>
     <span><a href='https://github.com/UBC-MDS/DSCI-522-2425-team35-Heart_disease_diagnostic_machine'>Heart Disease Predictor</a><strong> · </strong> <em>Group Academic Project</em></span>
     <p>Machine learning model to predict coronary heart disease given several medical tests. It includes fully reproducible analysis using containerization via docker.</p>
