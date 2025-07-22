@@ -18,9 +18,9 @@ toc: false
 format:
   html:
     css: styles.css
+    page-layout: full
+    max-width: 1000px
 ---
-
-::: {.column-page}
 
 ## Hi, I'm Sarah
 
@@ -32,5 +32,3 @@ In my free time, I enjoy camping, reading, cooking, and rotating through a numbe
 
 On this site you can find my [blog](blog.html) 
 and some notable [projects](projects.html).
-
-:::
