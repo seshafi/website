@@ -4,7 +4,6 @@
 
 To preview the website locally:
 
-```quarto render```
 ```quarto preview```
 
 To push the latest version of the website:
